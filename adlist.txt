@@ -24,7 +24,6 @@
 ||guthealthwellness.com^
 ||googlesyndication.com^
 ||doubleclick.net^
-||doubleclick.net
 ||jetpackdigital.net^
 ||motads.com^
 ||adtago.s3.amazonaws.com^
