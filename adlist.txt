@@ -19,7 +19,6 @@
 ||adsafeprotected.com^
 ||2mdn.net^
 ||s.yimg.com^
-||adprefs^
 ||ap.lijit.com^
 ||guthealthwellness.com^
 ||googlesyndication.com^
