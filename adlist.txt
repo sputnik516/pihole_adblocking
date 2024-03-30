@@ -1,3 +1,9 @@
+# Wildcard adlist in ABP format for use with Pi-Hole
+# By: Alex L
+# Adlist URL: https://raw.githubusercontent.com/sputnik516/pihole_adblocking/main/adlist.txt
+# Format explanation: https://pi-hole.net/blog/2023/03/22/pi-hole-ftl-v5-22-web-v5-19-and-core-v5-16-1-released/#page-content
+# Updated 3-29-2024
+
 ||de9a11s35xj3d.cloudfront.net^
 ||trace.mediago.io^
 ||mediago.io^
