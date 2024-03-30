@@ -1,1 +1,1 @@
-(\.|^)opsmatters\.com$
+*.opsmatters.com
